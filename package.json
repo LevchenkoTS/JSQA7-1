@@ -1,0 +1,13 @@
+{
+  "name": "jsqa7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:cloud": "npx cypress run --record --key 64b4e0cd-6270-4fd0-acf6-99bac61a41fd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
