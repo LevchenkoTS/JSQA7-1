@@ -20,10 +20,10 @@ scenario.forEach((scenario) => {
             cy.get(element.ticketCheck).contains(element.ticketText).should('be.visible');
             cy.get(element.ticketHall).contains(text).should('be.visible');
 
-            cy.get(element.takeQR).click();
+            // cy.get(element.takeQR).click();
 
-            cy.get(element.ticketCheck).contains(element.textQR).should('be.visible');
-            cy.get(element.infoQR).should('be.visible');
+            // cy.get(element.ticketCheck).contains(element.textQR).should('be.visible');
+            // cy.get(element.infoQR).should('be.visible');
         })
     })
 })

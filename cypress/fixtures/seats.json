@@ -12,15 +12,15 @@
       "name": "Second scenario",
       "data": [
           {
-              "row": 11,
+              "row": 10,
               "seat": 7
             },
             {
-              "row": 11,
+              "row": 10,
               "seat": 8
             },
             {
-              "row": 11,
+              "row": 10,
               "seat": 9
             }
       ]
